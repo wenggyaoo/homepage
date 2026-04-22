@@ -18,18 +18,23 @@ I am always open to new collaborations and discussions. Feel free to reach out.
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Venue Year</div><img src='images/paper_placeholder.png' alt="paper" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **[AMULETY: A Python package to embed adaptive immune receptor sequences](https://doi.org/10.1016/j.immuno.2026.100066)**
+  Wengyao Jiang. *ImmunoInformatics*, 2026.
 
-[Paper Title](https://arxiv.org)
+- **[Knee Osteoarthritis Diagnosis Integrating Meta-Learning and Multi-task Convolutional Neural Network](http://dx.doi.org/10.1109/bibm62325.2024.10822682)**
+  Wengyao Jiang. *IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, 2024.
 
-**Wengyao Jiang**, Author 2, Author 3
+- **[Diverse and specialized metabolic capabilities of microbes in oligotrophic built environments](http://dx.doi.org/10.1186/s40168-024-01926-6)**
+  Wengyao Jiang. *Microbiome*, 2024.
 
-*Journal/Conference Name, Year*
+- **[Removal of EOG Artifact in Electroencephalography with EEMD-ICA: A Semi-simulation Study on Identification of Artifactual Components](https://doi.org/10.1007/978-3-031-52216-1_10)**
+  Wengyao Jiang. *Communications in Computer and Information Science*, 2024.
 
-[**Paper**](https://arxiv.org) \| [**Code**](https://github.com/wenggyaoo)
-</div>
-</div>
+- **[Neural Network for Solving Ordinary Differential Equations](http://dx.doi.org/10.1109/cicn56167.2022.10008361)**
+  Wengyao Jiang. *14th International Conference on Computational Intelligence and Communication Networks (CICN)*, 2022.
+
+- **[Applications of singular value decomposition in data reduction](http://dx.doi.org/10.1117/12.2648696)**
+  Wengyao Jiang. *International Conference on Applied Statistics, Computational Mathematics, and Software Engineering (ASCMSE)*, 2022.
 
 # Education
 
