@@ -8,7 +8,8 @@
 # Site Settings
 title                    : "Wengyao Jiang"
 description              : "Ph.D. student in Computer Science at HKU"
-repository               : "wenggyaoo/wenggyaoo.github.io"
+repository               : "wenggyaoo/homepage"
+baseurl                  : "/homepage"
 google_scholar_stats_use_cdn : false
 
 # google analytics
