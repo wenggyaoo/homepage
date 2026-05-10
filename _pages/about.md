@@ -12,7 +12,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at the School of Computing and Data Science, The University of Hong Kong (HKU), under the supervision of Prof. Zhenqin Wu.
 
-I completed my M.S. in Health Informatics at Yale University, and I hold a B.S. in Applied Mathematics from the Xi'an Jiaotong-Liverpool University. My research interests lie at the intersection of AI for Science, bioinformatics, and computational biology, with a particular focus on foundation models for single-cell and immune repertoire analysis, scientific machine learning, and multimodal medical imaging. I am passionate about deep learning algorithms, especially large language models and neural operators for biological applications.
+I earned a master's degree in Health Informatics from Yale University and a bachelor's degree in Applied Mathematics from Xi'an Jiaotong-Liverpool University. My research interests lie at the intersection of AI for Science, bioinformatics, and computational biology, with a particular focus on foundation models for single-cell and immune repertoire analysis, scientific machine learning, and multimodal medical imaging. I am passionate about deep learning algorithms, especially large language models and neural operators for biological applications.
 
 I am always open to new collaborations and discussions. Feel free to reach out.
 
@@ -41,6 +41,6 @@ I am always open to new collaborations and discussions. Feel free to reach out.
 
 # Education
 
-- *2026 - present*, Ph.D. in Computer Science, The University of Hong Kong (Supervisor: Prof. Zhenqin Wu)
+- *2026 - present*, Ph.D. student, School of Computing and Data Science, The University of Hong Kong (Supervisor: Prof. Zhenqin Wu)
 - *2024 - 2026*, M.S. in Health Informatics, Yale University
 - *2020 - 2024*, B.S. in Applied Mathematics, Xi'an Jiaotong-Liverpool University
