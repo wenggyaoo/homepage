@@ -1,13 +1,21 @@
 ORCID: https://orcid.org/0000-0003-0575-1164
 github: https://github.com/wenggyaoo
 email: wengyao.jiang@yale.edu/wengyaojiang@gmail.com
+linkedin: https://www.linkedin.com/in/wengyao-jiang-26ab22315/?locale=zh
 location: Hongkong
 
 about me: 
 
-I am a Ph.D. student in Computer Science at the School of Computing and Data Science, The University of Hong Kong (HKU), under the supervision of Prof. Zhenqin Wu. 
+I am a Ph.D. student in the School of Computing and Data Science at the University of Hong Kong, under the supervision of Prof. Zhenqin Wu. 
 
 I earned a master's degree in Health Informatics from Yale University and a bachelor's degree in Applied Mathematics from Xi'an Jiaotong-Liverpool University.
-My research interests lie at the intersection of AI for Science, bioinformatics, and computational biology, with a particular focus on foundation models for single-cell and immune repertoire analysis, scientific machine learning, and multimodal medical imaging. I am passionate about deep learning algorithms, especially large language models and neural operators for biological applications. 
+My research interests lie at the intersection of AI for Science, scientific machine learning, and computational biology, with a particular focus on foundation models for single-cell, immune repertoire analysis, and multimodal medical imaging. I am passionate about deep learning algorithms, especially large language models and neural operators for biological applications. 
 
 I am always open to new collaborations and discussions. Feel free to reach out.
+
+
+publications:
+1. https://arxiv.org/abs/2604.13919
+2. https://doi.org/10.1016/j.immuno.2026.100066
+3. DOI: 10.1007/978-3-031-52216-1_10
+4. DOI: 10.1109/bibm62325.2024.10822682
